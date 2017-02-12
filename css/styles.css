@@ -5,20 +5,35 @@
 .white-bg {
 	background-color: white;
 }
-.bg-image {
-	background: url(../img/prada.jpg) no-repeat center center fixed;
+.bg-img {
+	background: url(../images/scl.jpg) no-repeat center center fixed;
 	background-size: cover;
 }
 
 .heading {
 	font-family: Times ;
-	font-size: 40px;
+	font-style: italic;
+	font-size: 60px;
 	color: white;
-	position: relative;
+	position: top;
 	top: 485px;
 
 }
 .center {
 	margin-left: 40%
 	 ;
+}
+
+.abc {
+	font-family: Times;
+	position: bottom;
+	color: white;
+	font-style: italic;
+}
+
+.navbar-brand a {
+	font-family: times
+	font-size:40px;
+	font-style: bold;
+	color: black;
 }
