@@ -1,0 +1,24 @@
+.bg {
+	background-color: ABACB2
+}
+
+.white-bg {
+	background-color: white;
+}
+.bg-image {
+	background: url(../img/prada.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.heading {
+	font-family: Times ;
+	font-size: 40px;
+	color: white;
+	position: relative;
+	top: 485px;
+
+}
+.center {
+	margin-left: 40%
+	 ;
+}
